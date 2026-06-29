@@ -21,12 +21,12 @@ This is my solution to the **QR Code Component** challenge on Frontend Mentor. T
 
 ### Screenshot
 
-![Project Screenshot](./preview.jpg)
+![Project Screenshot](./preview.png)
 
 ### Links
 
-* Solution URL: **Add your Frontend Mentor solution URL here**
-* Live Site URL: **Add your deployed website URL here**
+* Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-i3JlfiiEkT
+* Live Site URL: https://andarnatairn.github.io/QR-code-component/
 
 ## My Process
 
